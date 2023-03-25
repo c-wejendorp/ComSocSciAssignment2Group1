@@ -1,1 +1,3 @@
 #Empty for time being
+*.venv
+*.ipynb_checkpoints
